@@ -1,0 +1,2 @@
+rootProject.name = "DayCounterApp"
+include ':app'

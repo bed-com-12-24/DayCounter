@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.daycounter.app-mergeDebugResources-2:/values/values.xml",
+            "map": [
+                {
+                    "source": "H:\\Mobile\\DayCounterApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "19",
+                        "endColumns": "52",
+                        "endOffsets": "67"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "52",
+                        "endOffsets": "103"
+                    }
+                }
+            ]
+        }
+    ]
+}

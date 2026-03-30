@@ -1,0 +1,49 @@
+-- Merging decision tree log ---
+manifest
+ADDED from H:\Mobile\DayCounterApp\app\src\main\AndroidManifest.xml:2:1-18:12
+INJECTED from H:\Mobile\DayCounterApp\app\src\main\AndroidManifest.xml:2:1-18:12
+INJECTED from H:\Mobile\DayCounterApp\app\src\main\AndroidManifest.xml:2:1-18:12
+INJECTED from H:\Mobile\DayCounterApp\app\src\main\AndroidManifest.xml:2:1-18:12
+	package
+		INJECTED from H:\Mobile\DayCounterApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from H:\Mobile\DayCounterApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from H:\Mobile\DayCounterApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from H:\Mobile\DayCounterApp\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from H:\Mobile\DayCounterApp\app\src\main\AndroidManifest.xml:4:5-16:19
+INJECTED from H:\Mobile\DayCounterApp\app\src\main\AndroidManifest.xml:4:5-16:19
+	android:extractNativeLibs
+		INJECTED from H:\Mobile\DayCounterApp\app\src\main\AndroidManifest.xml
+	android:supportsRtl
+		ADDED from H:\Mobile\DayCounterApp\app\src\main\AndroidManifest.xml:7:9-35
+	android:label
+		ADDED from H:\Mobile\DayCounterApp\app\src\main\AndroidManifest.xml:6:9-41
+	android:allowBackup
+		ADDED from H:\Mobile\DayCounterApp\app\src\main\AndroidManifest.xml:5:9-35
+activity#com.example.daycounter.MainActivity
+ADDED from H:\Mobile\DayCounterApp\app\src\main\AndroidManifest.xml:9:9-14:20
+	android:exported
+		ADDED from H:\Mobile\DayCounterApp\app\src\main\AndroidManifest.xml:9:48-71
+	android:name
+		ADDED from H:\Mobile\DayCounterApp\app\src\main\AndroidManifest.xml:9:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from H:\Mobile\DayCounterApp\app\src\main\AndroidManifest.xml:10:13-13:29
+action#android.intent.action.MAIN
+ADDED from H:\Mobile\DayCounterApp\app\src\main\AndroidManifest.xml:11:17-69
+	android:name
+		ADDED from H:\Mobile\DayCounterApp\app\src\main\AndroidManifest.xml:11:25-66
+category#android.intent.category.LAUNCHER
+ADDED from H:\Mobile\DayCounterApp\app\src\main\AndroidManifest.xml:12:17-77
+	android:name
+		ADDED from H:\Mobile\DayCounterApp\app\src\main\AndroidManifest.xml:12:27-74
+uses-sdk
+INJECTED from H:\Mobile\DayCounterApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from H:\Mobile\DayCounterApp\app\src\main\AndroidManifest.xml
+INJECTED from H:\Mobile\DayCounterApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from H:\Mobile\DayCounterApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from H:\Mobile\DayCounterApp\app\src\main\AndroidManifest.xml

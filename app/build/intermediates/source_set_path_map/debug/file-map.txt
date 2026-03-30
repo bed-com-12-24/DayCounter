@@ -1,0 +1,7 @@
+com.example.daycounter.app-pngs-0 H:\Mobile\DayCounterApp\app\build\generated\res\pngs\debug
+com.example.daycounter.app-resValues-1 H:\Mobile\DayCounterApp\app\build\generated\res\resValues\debug
+com.example.daycounter.app-packageDebugResources-2 H:\Mobile\DayCounterApp\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.daycounter.app-packageDebugResources-3 H:\Mobile\DayCounterApp\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.daycounter.app-merged_res-4 H:\Mobile\DayCounterApp\app\build\intermediates\merged_res\debug
+com.example.daycounter.app-debug-5 H:\Mobile\DayCounterApp\app\src\debug\res
+com.example.daycounter.app-main-6 H:\Mobile\DayCounterApp\app\src\main\res

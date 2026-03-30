@@ -1,0 +1,4 @@
+com.example.daycounter:string/app_name = 0x7f030000
+com.example.daycounter:layout/activity_main = 0x7f020000
+com.example.daycounter:id/tvTitle = 0x7f010001
+com.example.daycounter:id/tvDays = 0x7f010000
