@@ -1,29 +1,23 @@
-package com.example.daycounter;
+package com.example.daycounter
 
-import android.app.Activity;
-import android.os.Bundle;
-import android.widget.Button;
-import android.widget.TextView;
+import android.app.Activity
+import android.os.Bundle
+import android.widget.TextView
+import java.util.Calendar
 
-import java.util.Calendar;
+class MainActivity : Activity() {
+    private lateinit var tvDays: TextView
 
-public class MainActivity extends Activity {
-    private TextView tvDays;
-
-    @Override
-    protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_main)
 
         // Bind views
-        tvDays = findViewById(R.id.tvDays);
-       
+        tvDays = findViewById(R.id.tvDays)
 
         // Get current day of year
-        Calendar calendar = Calendar.getInstance();
-        int dayOfYear = calendar.get(Calendar.DAY_OF_YEAR);
-        tvDays.setText("Today is Day " + dayOfYear + " of the year");
-
-        
+        val calendar = Calendar.getInstance()
+        val dayOfYear = calendar.get(Calendar.DAY_OF_YEAR)
+        tvDays.text = "Today is Day $dayOfYear of the year"
     }
 }
